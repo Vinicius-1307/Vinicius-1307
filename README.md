@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 No momento estou trabalhando:<br>      Atualmente trabalho como estagiário de desenvolvimento Web na Next Tecnologia de Cruzeiro-SP.<br>.<br>🌱 Atualmente estou aprendendo:<br>      No meio de 2022 comecei a estudar Front-End com um curso da Origamid, aprendi vários conceitos de posicionamentos com Grid e Flex-Box.<br>Básico de UX/UI Designer, manipulações do DOM com JavaScript, requisições assíncronas, React, TypeScript, Node. Atualmente em meu estágio, desenvolvo API's com framework Laravel e Node, realizando integrações com API do Pagar.me e também refatorando código back-end visando melhorias de performance e escalabilidade. No front-end utilizo diáriamente React.js e Next.js.<br>
+🔭 No momento estou trabalhando:<br>      Atualmente trabalho como Desenvolvedor Web Junior na Plus Intelligence em Cruzeiro-SP.<br>.<br>🌱 Atualmente estou aprendendo:<br> Atualmente estou estudando Linguagens voltadas para o Back-end como Laravel.<br>
 
 
 ## 🌐 Redes Sociais:
