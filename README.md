@@ -1,9 +1,13 @@
 # 💫 Sobre Mim:
-🔭 No momento estou trabalhando:<br>      Atualmente trabalho como Desenvolvedor Web Junior na Plus Intelligence em Cruzeiro-SP.<br>.<br>🌱 Atualmente estou aprendendo:<br> Atualmente estou estudando Linguagens voltadas para o Back-end como Laravel.<br>
+🔭 Atualmente trabalho como Desenvolvedor Web Júnior, desenvolvendo APIs em PHP e migrando o sistema atual para Laravel, tudo isso para um sistema ERP na empresa Plus Intelligence em Cruzeiro-SP.<br><br>🌱 Atualmente estou estudando [Laravel](https://laravel.com) e [Vue.JS](https://vuejs.org).<br><br>
+Nas horas vagas gosto de desenvolver APIs para fins de estudos. Atualmente estou desenvolvendo uma API para [Gerenciamento de Escolas](https://github.com/Vinicius-1307/school-api).
 
 
 ## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-josé-648148202/) 
+<div>
+   <a href="https://www.linkedin.com/in/www.linkedin.com/in/vinicius-josé-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/vinicius.j10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 # 💻 Tecnologias:
 <div stile="display:inline-block"><br>
