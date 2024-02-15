@@ -35,6 +35,9 @@ Nas horas vagas gosto de desenvolver APIs para fins de estudos. Atualmente estou
         <a href="https://laravel.com/">
    <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
         </a>     
+        <a href="https://vuejs.org">
+   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+        </a>     
   </div>
 
 
