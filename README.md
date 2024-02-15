@@ -33,7 +33,7 @@ Nas horas vagas gosto de desenvolver APIs para fins de estudos. Atualmente estou
    <img style="height:50px; width:50px;" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
         </a>
         <a href="https://laravel.com/">
-   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
         </a>     
   </div>
 
