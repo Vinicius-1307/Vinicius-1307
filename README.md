@@ -1,6 +1,5 @@
 # 💫 Sobre Mim:
 🔭 Atualmente trabalho como Desenvolvedor Web Júnior, desenvolvendo APIs em PHP e migrando o sistema atual para Laravel, tudo isso para um sistema ERP na empresa Plus Intelligence em Cruzeiro-SP.<br><br>🌱 Atualmente estou estudando [Laravel](https://laravel.com) e [Vue.JS](https://vuejs.org).<br><br>
-Nas horas vagas gosto de desenvolver APIs para fins de estudos. Atualmente estou desenvolvendo uma API para [Gerenciamento de Escolas](https://github.com/Vinicius-1307/school-api).
 
 
 ## 🌐 Redes Sociais:
