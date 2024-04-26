@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Atualmente trabalho como Desenvolvedor Web Júnior, desenvolvendo sistemas em PHP para bancos digitais na empresa ArkCode em Lorena-SP.<br><br>🌱 Atualmente estou estudando [Laravel](https://laravel.com).<br><br>
+🔭 Atualmente trabalho como Desenvolvedor Web, desenvolvendo sistema de gerenciamento de colaboradores feito em Laravel, na empresa Voch Tech.<br><br>🌱 Atualmente estou estudando [Laravel](https://laravel.com).<br><br>
 
 
 ## 🌐 Redes Sociais:
