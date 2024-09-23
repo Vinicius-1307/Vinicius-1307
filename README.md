@@ -28,11 +28,17 @@
       <a href="https://reactjs.org/">
    <img style="height:50px; width:50px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </a>
+      <a href="https://alpinejs.dev/">
+   <img style="height:50px; width:50px;" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" />
+        </a>
         <a href="https://www.php.net/docs.php">
    <img style="height:50px; width:50px;" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
         </a>
         <a href="https://laravel.com/">
    <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
+        </a>     
+        <a href="https://laravel-livewire.com/">
+   <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" />
         </a>     
   </div>
 
