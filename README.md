@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Atualmente trabalho como Desenvolvedor Web Full Stack, desenvolvendo sistema de gerenciamento de colaboradores feito em Laravel, na empresa Voch Tech.<br><br>
+🔭 Atualmente trabalho como Desenvolvedor Pleno Full Stack, desenvolvendo diversos sistemas voltados para o mercado Logístico, na empresa Boostech.<br><br>
 
 
 ## 🌐 Redes Sociais:
