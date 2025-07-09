@@ -39,6 +39,9 @@
         <a href="https://laravel-livewire.com/">
    <img style="height:50px; width:50px;" alt="laravel-icon" src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" />
         </a>     
+        <a href="https://laravel-livewire.com/">
+   <img style="height:50px; width:50px;" alt="vuejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />
+        </a>     
   </div>
 
 
